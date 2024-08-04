@@ -21,6 +21,23 @@
         "hist": "right"
     },
     "ex6": {
-        "max_sum": 7
+        "max_sum": 6
+    },
+    "ex7": {
+        "hist": "left-center"
+    },
+    "ex8": {
+        "hist": "right-most"
+    },
+    "ex9": {
+        "mean": "increases",
+        "var": "increases",
+        "cov": "stays the same"
+    },
+    "ex10": {
+        "options": "changing the loaded side from 1 to 6 will yield a higher mean but the same variance"
+    },
+    "ex11": {
+        "options": "yes, regardless if the die is fair or not"
     }
 }
